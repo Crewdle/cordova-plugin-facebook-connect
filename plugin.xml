@@ -17,12 +17,12 @@
 
     <license>Apache 2.0</license>
 
-    <preference name="APP_ID" />
-    <preference name="APP_NAME" />
+    <preference name="APP_ID" default="367682867790415" />
+    <preference name="APP_NAME" default="Crewdle" />
     <preference name="FACEBOOK_URL_SCHEME_SUFFIX" default=" " />
-    <preference name="FACEBOOK_AUTO_LOG_APP_EVENTS" default="true" />
+    <preference name="FACEBOOK_AUTO_LOG_APP_EVENTS" default="false" />
     <preference name="FACEBOOK_HYBRID_APP_EVENTS" default="false" />
-    <preference name="FACEBOOK_ADVERTISER_ID_COLLECTION" default="true" />
+    <preference name="FACEBOOK_ADVERTISER_ID_COLLECTION" default="false" />
     <preference name="FACEBOOK_ANDROID_SDK_VERSION" default="8.1.0"/>
     <preference name="FACEBOOK_IOS_SDK_VERSION" default="8.2.0"/>
     <preference name="FACEBOOK_BROWSER_SDK_VERSION" default="v9.0" />
